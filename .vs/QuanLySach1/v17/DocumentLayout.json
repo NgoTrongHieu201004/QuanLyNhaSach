@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\QuanLyNhaSach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78FDD20B-BD69-4982-83EE-0B1AC5472291}|GUI\\GUI.csproj|d:\\quanlynhasach\\gui\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78FDD20B-BD69-4982-83EE-0B1AC5472291}|GUI\\GUI.csproj|solutionrelative:gui\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78FDD20B-BD69-4982-83EE-0B1AC5472291}|GUI\\GUI.csproj|d:\\quanlynhasach\\gui\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78FDD20B-BD69-4982-83EE-0B1AC5472291}|GUI\\GUI.csproj|solutionrelative:gui\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E47587-428E-4B23-9C12-ACB20CB1660D}|DAL\\DAL.csproj|d:\\quanlynhasach\\dal\\hoadonns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E47587-428E-4B23-9C12-ACB20CB1660D}|DAL\\DAL.csproj|solutionrelative:dal\\hoadonns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78FDD20B-BD69-4982-83EE-0B1AC5472291}|GUI\\GUI.csproj|D:\\QuanLyNhaSach\\gui\\quanlykhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78FDD20B-BD69-4982-83EE-0B1AC5472291}|GUI\\GUI.csproj|solutionrelative:gui\\quanlykhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78FDD20B-BD69-4982-83EE-0B1AC5472291}|GUI\\GUI.csproj|d:\\quanlynhasach\\gui\\quanlysach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78FDD20B-BD69-4982-83EE-0B1AC5472291}|GUI\\GUI.csproj|solutionrelative:gui\\quanlysach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QuanLyKhachHang.cs",
+              "DocumentMoniker": "D:\\QuanLyNhaSach\\GUI\\QuanLyKhachHang.cs",
+              "RelativeDocumentMoniker": "GUI\\QuanLyKhachHang.cs",
+              "ToolTip": "D:\\QuanLyNhaSach\\GUI\\QuanLyKhachHang.cs",
+              "RelativeToolTip": "GUI\\QuanLyKhachHang.cs",
+              "ViewState": "AgIAAPYAAAAAAAAAAAAAAI4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T15:48:00.623Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QuanLySach.cs",
+              "DocumentMoniker": "D:\\QuanLyNhaSach\\GUI\\QuanLySach.cs",
+              "RelativeDocumentMoniker": "GUI\\QuanLySach.cs",
+              "ToolTip": "D:\\QuanLyNhaSach\\GUI\\QuanLySach.cs",
+              "RelativeToolTip": "GUI\\QuanLySach.cs",
+              "ViewState": "AgIAALQAAAAAAAAAAAAcwL4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T07:12:43.712Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HoaDon.cs",
+              "DocumentMoniker": "D:\\QuanLyNhaSach\\GUI\\HoaDon.cs",
+              "RelativeDocumentMoniker": "GUI\\HoaDon.cs",
+              "ToolTip": "D:\\QuanLyNhaSach\\GUI\\HoaDon.cs",
+              "RelativeToolTip": "GUI\\HoaDon.cs",
+              "ViewState": "AgIAAO4AAAAAAAAAAAAAAAABAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T07:11:04.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HoaDonNS.cs",
+              "DocumentMoniker": "D:\\QuanLyNhaSach\\DAL\\HoaDonNS.cs",
+              "RelativeDocumentMoniker": "DAL\\HoaDonNS.cs",
+              "ToolTip": "D:\\QuanLyNhaSach\\DAL\\HoaDonNS.cs",
+              "RelativeToolTip": "DAL\\HoaDonNS.cs",
+              "ViewState": "AgIAAN0AAAAAAAAAAAAAwOgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T07:29:42.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HoaDon.cs [Design]",
+              "DocumentMoniker": "D:\\QuanLyNhaSach\\GUI\\HoaDon.cs",
+              "RelativeDocumentMoniker": "GUI\\HoaDon.cs",
+              "ToolTip": "D:\\QuanLyNhaSach\\GUI\\HoaDon.cs [Design]",
+              "RelativeToolTip": "GUI\\HoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T05:58:23.913Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
